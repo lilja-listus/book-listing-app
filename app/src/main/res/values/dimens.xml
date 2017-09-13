@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_magrin">10dp</dimen>
+    <dimen name="layout_hight">60dp</dimen>
+    <dimen name="book_layout_margin">16dp</dimen>
+    <dimen name="image_layout_height">100dp</dimen>
+    <dimen name="image_layout_width">80dp</dimen>
+    <dimen name="text_size">20sp</dimen>
+    <dimen name="margin_bottom">5dp</dimen>
+    <dimen name="description_text_size">16sp</dimen>
+
+
+
+</resources>
